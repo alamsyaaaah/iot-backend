@@ -1,0 +1,7 @@
+{
+  "name": "iot-backend",
+  "version": "1.0.0",
+  "description": "Backend IoT Vercel Supabase",
+  "main": "index.js",
+  "dependencies": {}
+}
